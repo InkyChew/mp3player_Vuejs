@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "css/about.4d36234d.css"
   },
   {
-    "revision": "e23e9785c468724067ed",
-    "url": "js/app.d2eef6b7.js"
+    "revision": "894614258dd88a6a48bb",
+    "url": "js/app.0a6db1b8.js"
   },
   {
     "revision": "919b5cb587ab93837db1",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "media/Shape Of You.959606ad.mp3"
   },
   {
-    "revision": "45abd9111d460f6472a7f5b87682d638",
+    "revision": "8a7cdb04bb5221c2f777ca0dd04c34b2",
     "url": "index.html"
   },
   {
